@@ -53,3 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img alt="Supabase" src="https://img.shields.io/badge/-SupaBase-2ab263?style=flat-square&logo=netlify&logoColor=white">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hellionfrs&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellionfrs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
