@@ -1,4 +1,3 @@
-
 <h1>
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -21,40 +20,36 @@
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú, currently on the exciting journey of securing my first job in the tech industry.
+
 - :seedling: Passionate about learning new things and continually expanding my knowledge in the ever-evolving tech landscape.
 - :zap: Exploring Technical Content Writing and Posting my foundings in LinkedIn.
 - :dog: Enjoy spending quality time with my furry friend, playing and exploring together.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fredyrs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredyrds/)
+  8DD6F9
 
-### :hammer_and_wrench: Languages and Tools :
-- FrontEnd:
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="docs/nextjs.svg" tittle="Nextjs" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" width="40" height="40"/>&nbsp;
-  </div>
+### :hammer_and_wrench: Languages and Tools I work with :
 
-- BackEnd:
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="docs/express.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  </div>
-- Db:
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original-wordmark.svg" title="SupaBase" alt="SupaBase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-  </div>
-- Others:
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="docs/github.svg" title="GitHub" alt="Github" width="40" height="40"/>&nbsp;
-  </div>
-
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1a73e8?style=flat-square&logo=css3&logoColor=white" /> 
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-311C87?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-a52a3c?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-bb2037?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-DD0031?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Rails" src="https://img.shields.io/badge/-RoR-ea2845?style=flat-square&logo=rubyonrails&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-ec3d57?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-EC4A3F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-13aa52?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-SupaBase-2ab263?style=flat-square&logo=netlify&logoColor=white">
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
