@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: Exploring Technical Content Writing and Posting my foundings in LinkedIn.
 - :dog: Enjoy spending quality time with my furry friend, playing and exploring together.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fredyrs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredyrds/)
-  8DD6F9
+
 
 ### :hammer_and_wrench: Languages and Tools I work with :
 
